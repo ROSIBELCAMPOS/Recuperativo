@@ -6,7 +6,7 @@ export const courses: Course[] = [
     title: 'Desarrollo Web con React y TypeScript',
     shortDescription: 'Aprende a construir aplicaciones web modernas y robustas.',
     longDescription: 'Este curso intensivo te guiará a través de los fundamentos y conceptos avanzados de React y TypeScript para desarrollar interfaces de usuario interactivas y escalables. Cubriremos Hooks, Context API, Redux, y mucho más.',
-    image: 'https://via.placeholder.com/400x250/3b82f6/ffffff?text=React+TS',
+    image: '../assets/RT.png',
     temario: [
       'Introducción a React y JSX',
       'Componentes funcionales y Hooks',
@@ -28,7 +28,7 @@ export const courses: Course[] = [
     title: 'Fundamentos de Inteligencia Artificial',
     shortDescription: 'Explora los principios clave de la IA y sus aplicaciones.',
     longDescription: 'Descubre el apasionante mundo de la Inteligencia Artificial. Este curso aborda desde los algoritmos básicos de aprendizaje automático hasta la visión por computadora y el procesamiento del lenguaje natural, con ejemplos prácticos y proyectos.',
-    image: 'https://via.placeholder.com/400x250/22c55e/ffffff?text=AI+Basics',
+    image: '../assets/AI.png',
     temario: [
       'Introducción a la IA y Machine Learning',
       'Aprendizaje Supervisado y No Supervisado',
@@ -47,7 +47,7 @@ export const courses: Course[] = [
     title: 'Marketing Digital Estratégico',
     shortDescription: 'Domina las herramientas para posicionar tu marca en línea.',
     longDescription: 'Aprende a crear y ejecutar estrategias de marketing digital efectivas. Este curso cubre SEO, SEM, marketing de contenidos, redes sociales, email marketing y analítica web para potenciar tu presencia online.',
-    image: 'https://via.placeholder.com/400x250/ef4444/ffffff?text=Marketing+Digital',
+    image: '../assets/MD.png',
     temario: [
       'Introducción al Marketing Digital',
       'SEO y SEM',
