@@ -1,6 +1,6 @@
-//import React, { useState } from 'react';
+import { useState } from 'react';
 import Input from '../Components/Input';
-import Textarea from '../Components/Textarea';
+import Textarea from '../Components/TextArea';
 import Button from '../Components/Button';
 
 const ContactPage = () => {
